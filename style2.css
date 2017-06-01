@@ -1,0 +1,81 @@
+header{
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+
+.section1{
+  margin:auto;
+  display: block;
+  text-align: left;
+  background: #ff471a;
+  color: white;
+  font-family: sans-serif;
+  padding:20px;
+  align-content: center;
+  align-items: center;
+}
+
+.largeshoe{
+    display: block;
+    margin: auto;
+    height: 250px;
+    width: 500px;
+}
+
+.textbox1{
+  width: 500px;
+  display:block;
+  text-align:left;
+  border-bottom: 0.2px dashed black;
+  margin: auto;
+}
+
+h4{
+color: #b30000;
+margin-top: 0;
+}
+
+.textbox2{
+  width: 500px;
+  display:block;
+  text-align:left;
+  border-bottom: 0.2px dashed black;
+  margin: auto;
+}
+
+.textbox3{
+  width: 500px;
+  display:block;
+  text-align:left;
+  margin: auto;
+}
+
+.togglecategories{
+  width: 500px;
+  display:block;
+  text-align:left;
+  text: red;
+  margin: auto;
+  border-bottom: 0.2px solid red;
+}
+
+.sec4grey{
+text-align: center;
+background-color: mistyrose;
+color: black;
+font-weight: lighter;
+font-size: 12px;
+padding: 20px;
+}
+
+.sneakerlists{
+  display: inline-flex;
+  background: #ff471a;
+  color: white;
+  font-family: sans-serif;
+}
+
+footer{}
+  .footernav1{}
+  .footernav2{}
