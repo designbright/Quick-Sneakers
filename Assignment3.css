@@ -1,81 +1,80 @@
-body{
-  margin:0;
-}
-
-header{
+header {
   display: inline;
 }
 
-.smallshoelogo{
+.smallshoelogo {
   float: left;
   padding: 10px;
   height: 25px;
   width: 50px;
 }
 
-a{
+a {
   text-decoration: none;
+  color: #ff8000;
 }
 
-
-ul{
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   font-size: 12px;
 }
 
-li{
+li {
   display: inline;
 }
 
-.nav1{
-  float:left;
+.nav1 {
+  float: left;
   padding-top: 15px;
 }
 
-.nav2{
-  float:right;
+.nav2 {
+  float: right;
   padding-right: 10px;
   padding-top: 10px;
 }
 
-.shoppingcart{
+.shoppingcart {
   height: 15px;
   width: 25px;
 }
 
-.section1{
-  clear: left;
-  background-color: #ff471a ;
+.section1 {
+  clear: both;
+  background: linear-gradient(to right, DeepPink, OrangeRed);
   padding: 25px;
-  display: inline-block;
-}
-.backtoshoes{
-  width: 50%;
-  margin: auto;
-  text-align: left;
-  font-size: 12px;
   float: left;
-  padding-left: 140px;
 }
 
-.largeshoe{
-  height: 225px;
-  width: 450px;
+.backtoshoes {
+  text-align: left;
+  font-size: 12px;
+}
+
+.largeshoe {
+  height: 200px;
+  width: 350px;
   display: inline-block;
   padding-left: 125px;
   padding-top: 25px;
 }
 
-.section1content{
+.section1content {
   width: 35%;
   float: right;
   padding-right: 150px;
   color: white;
+  font-size: 75%;
+  font-family: sans-serif;
 }
 
-.button{
+hr {
+  border: 1px dashed black;
+}
+
+.button {
   width: 35%;
   float: right;
   text-align: left;
@@ -84,88 +83,82 @@ li{
   font-weight: 800;
 }
 
-  .togglecategories{
-    margin:150px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    display: inline-block;
-    border-bottom: 2px solid pink;
-    width: 80%;
-    word-spacing: 15px;
-}
-
-  .contenttopics{
-    margin:150px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
-
-    .secgrey{
-    margin-top: 25px;
-    background-color: mistyrose;
-    color: black;
-    font-weight: lighter;
-    font-size: 12px;
-    padding: 20px;
-    text-align: center;
-    }
-/*
-    .sneakerlists{
-      margin: auto;
-      display: inline-flex;
-      background: #ff471a;
-      color: white;
-      font-family: sans-serif;
-      padding-right: 150px;
-    }*/
-
-
-sneakerlists{
-  margin:0px;
-  padding-right: 100px;
-  border:5px solid yellow;
-  background-color: #ff471a;
+.togglecategories {
+  margin: 150px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   display: inline-block;
+  border-bottom: 2px solid pink;
+  width: 80%;
+  word-spacing: 15px;
 }
-    .product{
-      border: 5px dotted blue;
-      display:inline-block;
-      background-color: #ff471a ;
-    }
 
-    .product-image{
-    border:2px solid orange;
-    }
+.left {
+  text-align: left;
+}
 
-    .product-name{
-    border:2px solid green;
-    text-align: left;
-    }
+.right {
+  text-align: right;
+}
 
-    .product-price{
-    border:2px solid black;
-    text-align: right;
-    }
+.contenttopics {
+  margin: 150px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 
-    footer{
-      display:inline;
-    }
+.secgrey {
+  margin-top: 25px;
+  background-color: mistyrose;
+  color: black;
+  font-weight: lighter;
+  font-size: 12px;
+  padding: 20px;
+  text-align: center;
+}
 
-      .smallshoelogo{
-        float: left;
-        padding: 10px;
-        height: 25px;
-        width: 50px;
-      }
+.section4 {
+  background-image: linear-gradient(to right, #ff0066, #ff944d);
+  color: white;
+  height: 350px;
+}
 
-      .footernav1{
-        float:left;
-        padding-top: 15px;
-        padding-left: 10px;
-      }
+.product {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+  margin-top: 50px;
+}
 
-      .footernav2{
-        float:right;
-        padding-top: 15px;
-        padding-right: 10px;
-      }
+.productname {
+  margin-bottom: 0;
+}
+
+.season {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #b30000;
+}
+
+footer {
+  display: inline;
+}
+
+.smallshoelogo {
+  float: left;
+  padding: 10px;
+  height: 25px;
+  width: 50px;
+}
+
+.footernav1 {
+  float: left;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.footernav2 {
+  float: right;
+  padding-top: 15px;
+  padding-right: 10px;
+}

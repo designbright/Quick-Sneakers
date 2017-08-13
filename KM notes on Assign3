@@ -1,0 +1,92 @@
+<img class="smallshoe" src="/Users/designbright/Desktop/THE IRON YARD/images/logo.jpg" width="50" height="30" alt="Red Gradient Sneaker">
+
+<nav class="nav1header">
+  <ul>
+    <li><a href="/html/">MEN</a></li>
+    <li><a href="/css/">WOMEN</a></li>
+    <li><a href="/js/">BOYS</a></li>
+    <li><a href="/jquery/">GIRLS</a></li>
+    <li><a href="/jquery/">CUSTOMIZE</a></li>
+  </ul>
+</nav>
+
+<nav class="nav2header">
+  <ul>
+  <li><a href="/html/">Help</a></li>
+  <li><a href="/css/">My Account</a></li>
+  <li><img class="shoppingcart" src="/Users/designbright/Desktop/THE IRON YARD/images/cart.jpg" width="20" height="15" alt="Shopping Cart"> <a href="/js/">Shopping Cart</a></li>
+  </ul>
+</nav>
+</header>
+
+<section class="section1">
+<div class="backtoshoes">
+<a href="https://www.w3schools.com">Back To All Shoes</a>
+<img class="largeshoe" src="/Users/designbright/Desktop/THE IRON YARD/images/shoe1.png" width="300" height="150"alt="Black and White Sneaker">
+</div>
+
+<div class="right">
+<h1>Quick Sneakers</h1>
+<h4>SPRING/SUMMER 2017</h4>
+<hr>
+<p>This paragraph introduces the sneaker
+    <a href="https://www.w3schools.com">Read The Reviews</a>
+<hr>
+<p>$120
+    <a href="https://www.w3schools.com">Buy Now!</a>
+</p>
+</div>
+</section>
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+li{
+  display: inline;
+}
+
+a{
+  text-decoration: none;
+}
+
+.smallshoe{
+  float:left;
+}
+
+.nav1header{
+  float:left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  word-spacing: 15px;
+  }
+
+.nav2header{
+  float:right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+}
+
+.section1{
+  clear: right;
+  margin: auto;
+  background: #ff471a;
+  color: white;
+  font-family: sans-serif;
+  padding: 25px;
+}
+
+.right{
+    float:right;
+    padding: 10px;
+  }

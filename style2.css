@@ -3,6 +3,8 @@ header{
   font-size: 10px;
 }
 
+/*Color
+"color: linear-gradient(to right, DeepPink , OrangeRed);" */
 
 .section1{
   margin:auto;
@@ -34,6 +36,7 @@ header{
 h4{
 color: #b30000;
 margin-top: 0;
+line-height: 1.8;
 }
 
 .textbox2{
