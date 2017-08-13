@@ -16,6 +16,9 @@ Here are some tools that you will need to get started:
 Description
 One of the basic, foundational skills in being a professional web developer is the translation of a designer's mockup image into a webpage with HTML and CSS. 
 
+## View my final project here
+https://designbright.github.io/Quick-Sneakers/
+
   PROJECT BREAKDOWN AND PROCESS
   
   1. Use HTML and CSS to create the following using the mockup provided:
