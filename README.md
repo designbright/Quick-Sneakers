@@ -10,6 +10,8 @@ Here are some tools that you will need to get started:
   Chrome 
     -use this specifically instead of Firefox, Internet Explorer, etc. because Chrome has a tool called "Developer   Tool"        that allows you to see exactly what is happening in the browser when your HTML content is rendered to the page. This        tool is helpful for debugging
    MacBook (you can use any computer, but I prefer a Mac environment)
+   A GitHub account
+    -In addition to learning how to code, we also learned how to use GitHub which is a tool for developers who want to share      their code with the community. 
 
 Description
 One of the basic, foundational skills in being a professional web developer is the translation of a designer's mockup image into a webpage with HTML and CSS. 
